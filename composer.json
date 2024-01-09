@@ -1,0 +1,15 @@
+{
+    "name": "edenrekno/template",
+    "description": "hanya latihan",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "iseptianto17",
+            "email": "indraseptianto18@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.72"
+    }
+}
